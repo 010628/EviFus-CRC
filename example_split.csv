@@ -1,0 +1,4 @@
+patient_name,path_ct,path_bingli,duration,event,split
+case001,features/ct/case001.npy,features/pathology/case001.npy,820,1,train
+case002,features/ct/case002.npy,,1260,0,val
+case003,,features/pathology/case003.npy,430,1,test
